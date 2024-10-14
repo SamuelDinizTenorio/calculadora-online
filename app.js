@@ -10,6 +10,6 @@ function subtrair(x, y) {
 function multiplicar(x, y) {
     return x * y
 };
-function dividir(x, y) {
+function dividir(x, y, z) {
     return x / y
 };
