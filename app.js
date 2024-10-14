@@ -13,7 +13,3 @@ function multiplicar(x, y) {
 function dividir(x, y) {
     return x / y
 };
-
-function result() {
-    
-}
